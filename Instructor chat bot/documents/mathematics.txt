@@ -1,0 +1,28 @@
+Mathematics Essentials
+
+Algebra:
+Algebra is the branch of mathematics dealing with symbols and the rules for manipulating these symbols. Basic operations include addition, subtraction, multiplication, division, and solving equations.
+
+Quadratic Formula:
+For an equation of the form ax² + bx + c = 0, the solutions are:
+x = (-b ± √(b² - 4ac)) / 2a
+
+Calculus:
+Calculus is the mathematical study of continuous change. It has two main branches:
+- Differential calculus: studies rates of change and slopes of curves
+- Integral calculus: studies accumulation of quantities and areas under curves
+
+The derivative of a function f(x) is denoted as f'(x) or df/dx. The integral is denoted as ∫f(x)dx.
+
+Geometry:
+Geometry studies shapes, sizes, relative positions of figures, and properties of space. Key concepts include:
+- Euclidean geometry: plane and solid geometry
+- Trigonometry: relationships between angles and sides in triangles
+- Coordinate geometry: geometric figures on coordinate planes
+
+Pythagorean Theorem:
+In a right triangle, the square of the hypotenuse equals the sum of squares of the other two sides: a² + b² = c²
+
+Statistics:
+Statistics is the study of collection, analysis, interpretation, and presentation of data. Key concepts include mean, median, mode, standard deviation, and probability distributions.
+

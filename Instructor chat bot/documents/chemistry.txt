@@ -1,0 +1,25 @@
+Chemistry Basics
+
+Atomic Structure:
+Atoms consist of protons (positively charged), neutrons (neutral), and electrons (negatively charged). The number of protons determines the element. Electrons orbit the nucleus in shells.
+
+Periodic Table:
+The periodic table organizes elements by atomic number and chemical properties. Elements in the same column (group) have similar chemical properties. Elements in the same row (period) have the same number of electron shells.
+
+Chemical Bonds:
+- Ionic bonds: formed by transfer of electrons between atoms
+- Covalent bonds: formed by sharing electrons between atoms
+- Metallic bonds: found in metals, with electrons delocalized
+
+Chemical Reactions:
+Chemical reactions involve breaking and forming chemical bonds. A balanced chemical equation shows reactants and products with equal numbers of atoms on both sides.
+
+Stoichiometry:
+Stoichiometry is the calculation of reactants and products in chemical reactions. It uses balanced chemical equations and mole ratios.
+
+Acids and Bases:
+Acids donate protons (H+ ions), while bases accept protons. The pH scale measures acidity/alkalinity, with pH 7 being neutral, pH < 7 acidic, and pH > 7 basic.
+
+Organic Chemistry:
+Organic chemistry studies carbon-containing compounds. Key concepts include hydrocarbons, functional groups, and reaction mechanisms. Carbon's ability to form four bonds makes it central to life.
+

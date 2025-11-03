@@ -1,0 +1,21 @@
+Physics Fundamentals
+
+Newton's Laws of Motion:
+1. First Law (Inertia): An object at rest stays at rest, and an object in motion stays in motion at constant velocity, unless acted upon by an external force.
+2. Second Law: The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass. F = ma
+3. Third Law: For every action, there is an equal and opposite reaction.
+
+Energy:
+Energy is the capacity to do work. There are various forms of energy including kinetic energy (energy of motion), potential energy (stored energy), thermal energy, electrical energy, and more.
+
+The law of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another.
+
+Electromagnetism:
+Electricity and magnetism are two aspects of the same fundamental force - electromagnetism. Moving electric charges create magnetic fields, and changing magnetic fields induce electric currents.
+
+Optics:
+Light behaves both as a wave and as a particle (wave-particle duality). Reflection, refraction, and diffraction are key optical phenomena. The speed of light in vacuum is approximately 299,792,458 meters per second.
+
+Quantum Mechanics:
+Quantum mechanics describes the behavior of matter and energy at the atomic and subatomic level. Key concepts include wave-particle duality, uncertainty principle, and quantum superposition.
+
